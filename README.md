@@ -1,4 +1,4 @@
-# Icertion_Sort_Kotlin
+# Icertion Sort Kotlin
 
-this is just a little Sorting Algorithm, i wrote while learing Kotlin. 
+This is just a little Sorting Algorithm, i wrote while learing Kotlin. 
 
