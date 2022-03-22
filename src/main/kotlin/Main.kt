@@ -1,6 +1,6 @@
 fun main() {
 
-    val array: IntArray = intArrayOf(1,3,5,2,6,7,4,9,8,0)
+    var array: IntArray = intArrayOf(1,3,5,2,6,7,4,9,8,0)
     var sortedArray = sort(array)
     println(sortedArray.contentToString())
 
